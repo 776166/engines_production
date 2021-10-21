@@ -1,0 +1,33 @@
+{
+  "TargetUri": "engines_production/engines_factory_v1.recipetarget",
+  "Duration": 20.0,
+  "InputItems": [
+    {
+      "Uri": "base/steel_beam.item",
+      "Count": 1.0
+    },
+    {
+      "Uri": "base/iron_bar.item",
+      "Count": 3.0
+    },
+    {
+      "Uri": "base/iron_plate.item",
+      "Count": 1.0
+    },
+    {
+      "Uri": "base/circuit.item",
+      "Count": 1.0
+    },
+    {
+      "Uri": "base/copper_wire.item",
+      "Count": 3.0
+    }
+  ],
+  "OutputItems": [
+    {
+      "Uri": "engines_production/electric_engine.item",
+      "Count": 1.0
+    }
+  ],
+  "ResearchUri": "engines_production/electric_engine_production.research"
+}

@@ -1,0 +1,163 @@
+{
+  "RecipeTargetUri": "engines_production/engines_factory_v1.recipetarget",
+  "Submeshes": [],
+  "Sounds": [
+    {
+      "SoundUri": "base/alloy_smelter_device.wav",
+      "Time": 0.5
+    }
+  ],
+  "Smokes": [
+    {
+      "Uri": "base/glass_furnace_device.smoke",
+      "Position": [-3.7, 9.5, -1.95]
+    }
+  ],
+  "ClippingPlanes": [
+    {
+      "MeshUri": "base/clipping_plane.obj",
+      "Position": [-1.5, 0.29, 2.86],
+      "Rotation": [0, 0, 0],
+      "Scale": [0.41, 0.59, 1]
+    },
+    {
+      "MeshUri": "base/clipping_plane.obj",
+      "Position": [-1.5, 0.29, -2.86],
+      "Rotation": [0, 180, 0],
+      "Scale": [0.41, 0.59, 1]
+    },
+    {
+      "MeshUri": "base/clipping_plane.obj",
+      "Position": [-3.5, 0.29, -2.86],
+      "Rotation": [0, 180, 0],
+      "Scale": [0.41, 0.59, 1]
+    },
+		{
+      "MeshUri": "base/clipping_plane.obj",
+      "Position": [2.35, 0.19, 0.69],
+      "Rotation": [90, 0, 0],
+      "Scale": [1.14, 0.46, 1]
+    }
+  ],
+  "Conveyors": [
+    {
+      "SpawnConnection": 1,
+      "Uri": "base/regular.conveyor",
+      "ConveyorType": "StraightShort",
+      "Position": {
+        "X": 1,
+        "Y": 0,
+        "Z": 0
+      },
+      "Rotation": "Rotate0",
+      "Handle": false
+    },
+    {
+      "SpawnConnection": null,
+      "Uri": "base/regular.conveyor",
+      "ConveyorType": "Cap",
+      "Position": {
+        "X": 1,
+        "Y": 0,
+        "Z": -1
+      },
+      "Rotation": "Rotate180",
+      "Handle": true
+    },
+    {
+      "SpawnConnection": 1,
+      "Uri": "base/regular.conveyor",
+      "ConveyorType": "StraightShort",
+      "Position": {
+        "X": 3,
+        "Y": 0,
+        "Z": 0
+      },
+      "Rotation": "Rotate0",
+      "Handle": false
+    },
+    {
+      "SpawnConnection": null,
+      "Uri": "base/regular.conveyor",
+      "ConveyorType": "Cap",
+      "Position": {
+        "X": 3,
+        "Y": 0,
+        "Z": -1
+      },
+      "Rotation": "Rotate180",
+      "Handle": true
+    },
+    {
+      "SpawnConnection": 1,
+      "Uri": "base/regular.conveyor",
+      "ConveyorType": "StraightShort",
+      "Position": {
+        "X": 3,
+        "Y": 0,
+        "Z": 5
+      },
+      "Rotation": "Rotate180",
+      "Handle": false
+    },
+    {
+      "SpawnConnection": null,
+      "Uri": "base/regular.conveyor",
+      "ConveyorType": "Cap",
+      "Position": {
+        "X": 3,
+        "Y": 0,
+        "Z": 6
+      },
+      "Rotation": "Rotate0",
+      "Handle": true
+    }
+  ],
+  "ResearchUri": "engines_production/engines_factory.research",
+  "Size": {
+    "X": 10,
+    "Y": 10,
+    "Z": 6
+  },
+  "Liveries": {
+    "default": {
+      "MeshUri": "engines_production/engines_factory_v1_device.obj",
+      "MeshVariant": null,
+      "Lights": null,
+			"NightLiveries": [
+        {
+          "MeshUri": null,
+          "MeshVariant": "night_1",
+          "Lights": null
+        },
+        {
+          "MeshUri": null,
+          "MeshVariant": "night_2",
+          "Lights": null
+        }
+      ],
+      "BiomeLiveries": {
+        "arctic": {
+          "MeshUri": null,
+          "MeshVariant": "arctic",
+          "Lights": null,
+          "NightLiveries": [
+            {
+              "MeshUri": null,
+              "MeshVariant": "arctic_night_1",
+              "Lights": null
+            },
+            {
+              "MeshUri": null,
+              "MeshVariant": "arctic_night_2",
+              "Lights": null
+            }
+          ]
+        }
+      }
+    }
+  },
+  "Price": 282500.0,
+  "RunningCosts": null,
+  "Hidden": false
+}

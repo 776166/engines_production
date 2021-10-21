@@ -1,0 +1,17 @@
+{
+    "Commands": [
+        {
+            "Optional": true,
+            "Command": "Merge",
+            "TargetAssetUri": "base/small_warehouse.storages",
+            "Path": "Items",
+            "Value": {
+              "engines_production/diesel_engine.item": {"stackable": true},
+              "engines_production/electric_engine.item": {"stackable": true},
+              "engines_production/gasoline_engine.item": {"stackable": true},
+              "engines_production/jet_engine.item": {"stackable": true},
+              "engines_production/steam_engine.item": {"stackable": true},
+            }
+        }
+    ]
+}

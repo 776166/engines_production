@@ -1,0 +1,7 @@
+{
+  "IsLiquid": false,
+  "Color": "c4cec4",
+  "MeshUri": "engines_production/electric_engine.obj",
+  "ConveyorLength": 0.3,
+  "Weight": 1.05
+}

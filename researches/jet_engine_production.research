@@ -1,0 +1,16 @@
+{
+  "ParentResearchUris": [
+    "engines_production/engines_factory.research",
+    "base/copper_smelting.research"
+
+  ],
+  "Tier": 1,
+  "Days": 42,
+  "DaysMultiplier": null,
+  "PricePerDay": 100,
+  "PricePerDayMultiplier": null,
+  "ItemsPerDay": [],
+  "CompletedByDefault": false,
+  "Hidden": false,
+  "Goal": false
+}
