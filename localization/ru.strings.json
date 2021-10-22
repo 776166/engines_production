@@ -1,12 +1,12 @@
 {
-  "LocaleUri": "base/ru.locale",
-  "Items": {
     "engines_production/steam_engine.item#DisplayName": "Паровой двигатель",
     "engines_production/gasoline_engine.item#DisplayName": "Бензиновый двигатель",
     "engines_production/diesel_engine.item#DisplayName": "Дизельный двигатель",
     "engines_production/electric_engine.item#DisplayName": "Электрический двигатель",
     "engines_production/jet_engine.item#DisplayName": "Реактивный двигатель",
-    
+
+    "engines_production/engines_factory_v1.device#DisplayName": "Завод по производству двигателей",
+
     "engines_production/engines_factory.research#DisplayName": "Производство двигателей",
     "engines_production/engines_factory.research#Description": "Позволяет производить разные типы двигателей для транспортных средств и не только.",
     "engines_production/steam_engine_production.research#DisplayName": "Собственное производство паровых двигателей",
@@ -19,9 +19,12 @@
     "engines_production/jet_engine_production.research#Description": "Надеюсь, когда-нибудь самолётики добавят в игру. **режим Хатико активирован**",
     "engines_production/electric_engine_production.research#DisplayName": "Собственное производство электрических двигателей",
     "engines_production/electric_engine_production.research#Description": "Скажите, а Тесла заряжается плюсовым током или минусовым?",
-    
-    "engines_production/engines_factory_v1.device#DisplayName": "Фабрика сборки двигателей",
-    
+
+    "engines_production/steam_engine.store#DisplayName": "Клуб любителей паровозов",
+    "engines_production/gasoline_engine.store#DisplayName": "Клубный сервис BMW",
+    "engines_production/diesel_engine.store#DisplayName": "Центр трансплантологии мурчалок котам «VAG»",
+    "engines_production/jet_engine.store#DisplayName": "Мастерская по ремонту ковров-самолётов",
+    "engines_production/electric_engine.store#DisplayName": "Tesla Motors",
+
     "engines_production/advert": "Здесь могла бы быть ваша реклама!1"
-  }
 }

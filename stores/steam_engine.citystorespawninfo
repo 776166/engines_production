@@ -1,0 +1,12 @@
+{
+  "ParentUri": "engines_production/steam_engine.citystorespawninfo",
+  "StoreUri": "engines_production/steam_engine.store",
+  "StoreLiveryName": null,
+  "ItemUri": "engines_production/steam_engine.item",
+  "Tier": 1,
+  "Demand": null,
+  "DemandMultiplier": null,
+  "Price": null,
+  "PriceMultiplier": 0.9,
+  "Tag": null
+}

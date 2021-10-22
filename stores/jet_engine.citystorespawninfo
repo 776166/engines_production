@@ -1,0 +1,12 @@
+{
+  "ParentUri": "engines_production/jet_engine.citystorespawninfo",
+  "StoreUri": "engines_production/jet_engine.store",
+  "StoreLiveryName": null,
+  "ItemUri": "engines_production/jet_engine.item",
+  "Tier": 2,
+  "Demand": null,
+  "DemandMultiplier": null,
+  "Price": null,
+  "PriceMultiplier": 0.9,
+  "Tag": null
+}

@@ -1,0 +1,12 @@
+{
+  "ParentUri": "engines_production/electric_engine.citystorespawninfo",
+  "StoreUri": "engines_production/electric_engine.store",
+  "StoreLiveryName": null,
+  "ItemUri": "engines_production/electric_engine.item",
+  "Tier": 3,
+  "Demand": null,
+  "DemandMultiplier": null,
+  "Price": null,
+  "PriceMultiplier": 0.9,
+  "Tag": null
+}

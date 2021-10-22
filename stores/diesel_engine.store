@@ -1,0 +1,28 @@
+{
+  "Size": [3, 2, 3],
+  "Liveries": {
+    "default": {
+      "MeshUri": "base/base_store.obj",
+      "MeshVariant": null,
+      "Lights": null,
+      "NightLiveries": [
+        {
+          "MeshUri": null,
+          "MeshVariant": "night_1",
+          "Lights": null
+        },
+        {
+          "MeshUri": null,
+          "MeshVariant": "night_2",
+          "Lights": null
+        }
+      ],
+      "BiomeLiveries": null
+    }
+  },
+  "Price": 10000.0,
+  "PriceMultiplier": null,
+  "RunningCosts": null,
+  "RunningCostsMultiplier": null,
+  "Hidden": false
+}
