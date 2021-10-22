@@ -18,7 +18,7 @@
     "engines_production/jet_engine_production.research#DisplayName": "Собственное производство реактивных двигателей",
     "engines_production/jet_engine_production.research#Description": "Надеюсь, когда-нибудь самолётики добавят в игру. **режим Хатико активирован**",
     "engines_production/electric_engine_production.research#DisplayName": "Собственное производство электрических двигателей",
-    "engines_production/electric_engine_production.research#Description": "Скажите, а Тесла заряжается плюсовым током или минусовым?",
+    "engines_production/electric_engine_production.research#Description": "Скажите, а Тесла заряжается плюсовым или минусовым током? Может, с фазы?",
 
     "engines_production/steam_engine.store#DisplayName": "Клуб любителей паровозов",
     "engines_production/gasoline_engine.store#DisplayName": "Клубный сервис BMW",

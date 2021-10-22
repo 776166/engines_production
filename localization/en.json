@@ -1,0 +1,30 @@
+{
+    "engines_production/steam_engine.item#DisplayName": "Steam engine",
+    "engines_production/gasoline_engine.item#DisplayName": "Gasoline engine",
+    "engines_production/diesel_engine.item#DisplayName": "Diesel engine",
+    "engines_production/electric_engine.item#DisplayName": "Electric engine",
+    "engines_production/jet_engine.item#DisplayName": "Jet engine",
+
+    "engines_production/engines_factory_v1.device#DisplayName": "Engine manufacturing plant",
+
+    "engines_production/engines_factory.research#DisplayName": "Engine production",
+    "engines_production/engines_factory.research#Description": "Allows to produce different types of engines for vehicles and not only.",
+    "engines_production/steam_engine_production.research#DisplayName": "Steam engine manufacturing",
+    "engines_production/steam_engine_production.research#Description": "The steam engine are cool, and not at all useless!",
+    "engines_production/gasoline_engine_production.research#DisplayName": "Gasoline engine manufacturing",
+    "engines_production/gasoline_engine_production.research#Description": "The gasoline engine is good, of course, but the diesel is 25% cooler!",
+    "engines_production/diesel_engine_production.research#DisplayName": "Diesel engine manufacturing",
+    "engines_production/diesel_engine_production.research#Description": "Volkswagen is strictly forbidden!",
+    "engines_production/jet_engine_production.research#DisplayName": "Jet manufacturing",
+    "engines_production/jet_engine_production.research#Description": "I hope someday planes will be added to the game. ** Hachikō mode activated **",
+    "engines_production/electric_engine_production.research#DisplayName": "Electric engine manufacturing",
+    "engines_production/electric_engine_production.research#Description": "Tell me, is Tesla charged with positive or negative current? Maybe from the phase?",
+
+    "engines_production/steam_engine.store#DisplayName": "Steam locomotive club",
+    "engines_production/gasoline_engine.store#DisplayName": "BMW Club Service",
+    "engines_production/diesel_engine.store#DisplayName": "Purr transplant center for cats «VAG»",
+    "engines_production/jet_engine.store#DisplayName": "Airplane carpet repair workshop",
+    "engines_production/electric_engine.store#DisplayName": "Tesla Motors",
+
+    "engines_production/advert": "Your ad could be here!1"
+}
