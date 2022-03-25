@@ -1,7 +1,15 @@
 {
   "Materials": [
     {
-      "Color": "00ffff",
+      "Color": "616161",
+      "CompanyTint": 0,
+      "Emission": 0,
+      "Glassiness": 0,
+      "Smoothness": 0,
+      "Specular": 108
+    },
+    {
+      "Color": "a39f8c",
       "CompanyTint": 0,
       "Emission": 0,
       "Glassiness": 0,
@@ -9,7 +17,7 @@
       "Specular": 0
     },
     {
-      "Color": "ff00ff",
+      "Color": "954f45",
       "CompanyTint": 0,
       "Emission": 0,
       "Glassiness": 0,
@@ -17,7 +25,15 @@
       "Specular": 0
     },
     {
-      "Color": "00ffff",
+      "Color": "959595",
+      "CompanyTint": 0,
+      "Emission": 0,
+      "Glassiness": 0,
+      "Smoothness": 0,
+      "Specular": 121
+    },
+    {
+      "Color": "222222",
       "CompanyTint": 0,
       "Emission": 0,
       "Glassiness": 0,
@@ -25,7 +41,7 @@
       "Specular": 0
     },
     {
-      "Color": "ff00ff",
+      "Color": "474747",
       "CompanyTint": 0,
       "Emission": 0,
       "Glassiness": 0,
@@ -33,7 +49,7 @@
       "Specular": 0
     },
     {
-      "Color": "ff00ff",
+      "Color": "6ca632",
       "CompanyTint": 0,
       "Emission": 0,
       "Glassiness": 0,
@@ -41,7 +57,7 @@
       "Specular": 0
     },
     {
-      "Color": "00ffff",
+      "Color": "a63289",
       "CompanyTint": 0,
       "Emission": 0,
       "Glassiness": 0,
@@ -49,7 +65,7 @@
       "Specular": 0
     },
     {
-      "Color": "ff00ff",
+      "Color": "a63232",
       "CompanyTint": 0,
       "Emission": 0,
       "Glassiness": 0,
@@ -57,7 +73,7 @@
       "Specular": 0
     },
     {
-      "Color": "00ffff",
+      "Color": "a68932",
       "CompanyTint": 0,
       "Emission": 0,
       "Glassiness": 0,
@@ -65,7 +81,7 @@
       "Specular": 0
     },
     {
-      "Color": "00ffff",
+      "Color": "6c32a6",
       "CompanyTint": 0,
       "Emission": 0,
       "Glassiness": 0,
@@ -73,7 +89,7 @@
       "Specular": 0
     },
     {
-      "Color": "ff00ff",
+      "Color": "32a64f",
       "CompanyTint": 0,
       "Emission": 0,
       "Glassiness": 0,
@@ -81,7 +97,7 @@
       "Specular": 0
     },
     {
-      "Color": "00ffff",
+      "Color": "32a6a6",
       "CompanyTint": 0,
       "Emission": 0,
       "Glassiness": 0,
@@ -89,7 +105,7 @@
       "Specular": 0
     },
     {
-      "Color": "ff00ff",
+      "Color": "324fa6",
       "CompanyTint": 0,
       "Emission": 0,
       "Glassiness": 0,
@@ -97,7 +113,7 @@
       "Specular": 0
     },
     {
-      "Color": "2f2f2f",
+      "Color": "6ca632",
       "CompanyTint": 0,
       "Emission": 0,
       "Glassiness": 0,
@@ -105,23 +121,7 @@
       "Specular": 0
     },
     {
-      "Color": "858585",
-      "CompanyTint": 0,
-      "Emission": 0,
-      "Glassiness": 0,
-      "Smoothness": 0,
-      "Specular": 0
-    },
-    {
-      "Color": "d98664",
-      "CompanyTint": 0,
-      "Emission": 0,
-      "Glassiness": 0,
-      "Smoothness": 255,
-      "Specular": 0
-    },
-    {
-      "Color": "757575",
+      "Color": "a63289",
       "CompanyTint": 0,
       "Emission": 0,
       "Glassiness": 0,
