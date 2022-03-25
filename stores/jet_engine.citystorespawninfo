@@ -3,7 +3,7 @@
   "StoreUri": "engines_production/jet_engine.store",
   "StoreLiveryName": null,
   "ItemUri": "engines_production/jet_engine.item",
-  "Tier": 2,
+  "Tier": 1,
   "Demand": null,
   "DemandMultiplier": null,
   "Price": null,

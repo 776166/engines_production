@@ -1,7 +1,7 @@
 {
   "IsLiquid": false,
   "Color": "c4cec4",
-  "MeshUri": "engines_production/gasoline_engine.obj",
-  "ConveyorLength": 0.3,
+  "MeshUri": "engines_production/gasoline_engine_v2.obj",
+  "ConveyorLength": 1,
   "Weight": 1.05
 }

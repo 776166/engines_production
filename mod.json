@@ -2,4 +2,9 @@
   "Description": "Engines Production Industry mod",
   "Title": "Engine Production",
   "MeshBaseURI": "engines_production",
+  "Tags": [
+      "Industries",
+      "Researches",
+      "Factories",
+  ]
 }

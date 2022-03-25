@@ -1,0 +1,17 @@
+{
+  "TargetUri": "engines_production/engines_factory_v1.recipetarget",
+  "Duration": 20.0,
+  "InputItems": [
+    {
+      "Uri": "base/coal.item",
+      "Count": 1.0
+    }
+  ],
+  "OutputItems": [
+    {
+      "Uri": "engines_production/diesel_engine.item",
+      "Count": 1.0
+    }
+  ],
+  "ResearchUri": "engines_production/diesel_engine_production.research",
+}

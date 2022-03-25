@@ -1,7 +1,7 @@
 {
   "IsLiquid": false,
   "Color": "c4cec4",
-  "MeshUri": "engines_production/diesel_engine.obj",
+  "MeshUri": "engines_production/diesel_engine_v2.obj",
   "ConveyorLength": 0.3,
   "Weight": 1.05
 }

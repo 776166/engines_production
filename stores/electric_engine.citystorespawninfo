@@ -3,7 +3,7 @@
   "StoreUri": "engines_production/electric_engine.store",
   "StoreLiveryName": null,
   "ItemUri": "engines_production/electric_engine.item",
-  "Tier": 3,
+  "Tier": 1,
   "Demand": null,
   "DemandMultiplier": null,
   "Price": null,
